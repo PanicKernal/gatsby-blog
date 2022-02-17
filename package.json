@@ -15,8 +15,14 @@
   },
   "dependencies": {
     "gatsby": "^4.7.1",
+    "gatsby-plugin-react-helmet": "^5.7.0",
+    "gatsby-plugin-sass": "^5.7.0",
+    "gatsby-source-filesystem": "^4.7.0",
+    "gatsby-transformer-remark": "^5.7.0",
+    "node-sass": "^6.0.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "^2.5.1"
